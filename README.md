@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-Aabn derefter http://localhost:3000.
+åben derefter http://localhost:3000.
 
 ## Brug
 
